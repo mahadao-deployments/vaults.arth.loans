@@ -1,0 +1,2 @@
+(this["webpackJsonpcampaign.mahadao.com"]=this["webpackJsonpcampaign.mahadao.com"]||[]).push([[48],{1033:function(a,c,s){"use strict";s.r(c),c.default=s.p+"static/media/GreenCheck.2dd88ad4.svg"}}]);
+//# sourceMappingURL=48.8c29d544.chunk.js.map
