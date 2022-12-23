@@ -1,2 +1,0 @@
-(this["webpackJsonpcampaign.mahadao.com"]=this["webpackJsonpcampaign.mahadao.com"]||[]).push([[135],{1121:function(a,c,s){"use strict";s.r(c),c.default=s.p+"static/media/MAHA-DAI-QLP-S.4134f38e.svg"}}]);
-//# sourceMappingURL=135.0c4a835a.chunk.js.map
