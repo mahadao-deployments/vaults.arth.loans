@@ -1,0 +1,2 @@
+(this["webpackJsonpcampaign.mahadao.com"]=this["webpackJsonpcampaign.mahadao.com"]||[]).push([[99],{1085:function(a,c,s){"use strict";s.r(c),c.default=s.p+"static/media/Telegram.0d1d1628.svg"}}]);
+//# sourceMappingURL=99.8bef1f53.chunk.js.map

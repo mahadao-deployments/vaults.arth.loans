@@ -1,0 +1,2 @@
+(this["webpackJsonpcampaign.mahadao.com"]=this["webpackJsonpcampaign.mahadao.com"]||[]).push([[72],{1058:function(a,c,e){"use strict";e.r(c),c.default=e.p+"static/media/BentoMenu.2a673eed.svg"}}]);
+//# sourceMappingURL=72.8780fcb3.chunk.js.map

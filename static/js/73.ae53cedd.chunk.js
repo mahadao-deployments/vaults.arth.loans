@@ -1,0 +1,2 @@
+(this["webpackJsonpcampaign.mahadao.com"]=this["webpackJsonpcampaign.mahadao.com"]||[]).push([[73],{1059:function(a,c,s){"use strict";s.r(c),c.default=s.p+"static/media/Calendar.1b3eb884.svg"}}]);
+//# sourceMappingURL=73.ae53cedd.chunk.js.map
